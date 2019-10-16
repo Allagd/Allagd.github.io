@@ -1,0 +1,8 @@
+origin: Alla repo
+Label: Alla
+Suite: stable
+Version: 1.0
+Codename: Alla
+Architectures: iphoneos-arm
+Compornent: main
+Description: Alla's repo
